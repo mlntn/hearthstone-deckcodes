@@ -1,0 +1,12 @@
+{
+    "name": "mlntn/hearthstone-deckcodes",
+    "description": "Encode and decode Hearthstone deck codes",
+    "keywords": ["hearthstone", "deck"],
+    "license": "MIT",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mlntn\\Hearthstone\\": "src/"
+        }
+    }
+}
